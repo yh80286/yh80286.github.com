@@ -19,17 +19,17 @@ url: http://yh80286.github.com
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
-gavatar: /public/img/LAY.png
-favicon: /public/img/LAY.png
+gavatar: /public/img/yh.jpg
+favicon: /public/img/yh.jpg
 
 # google analytics 设置
 ga:
-  id: UA-54262064-1 
-  url: painterlin.com
+  id: UA-55958164-1 
+  url: yh80286.github.io
 
 # disqus 设置
 disqus:
-  shortname: painterlin
+  shortname: yuehao
 
 # 主题设置，自动激活某个标签
 active: 读书
