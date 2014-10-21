@@ -36,8 +36,8 @@ active: 读书
 
 # 首页除了最新文章外显示分类
 cates: 
-  - 矩阵补全
-  - LaTeX
+#  - 矩阵补全
+#  - LaTeX
 
 # 中文本地化
 locals:
