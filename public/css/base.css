@@ -97,11 +97,12 @@ body, html {
 .aside3-content {
   padding-left: 40px;
   padding-right: 40px;
-  color: #656565;
+  color: #000000;
 }
 #content {
   font-size: 15px;
   line-height: 1.8;
+  letter-spacing: -0.5px;
 }
 #content h2, h3 {
   line-height: 2;
